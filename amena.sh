@@ -1,27 +1,13 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@BangRDT 
-Code  Issues 0  Pull requests 0  Projects 0  Wiki  Security  Pulse  Community
-santri/amena.sh
-@amenakun amenakun add files via upload
-552ce9a on 27 May
-136 lines (120 sloc)  2.04 KB
-  
 clear
 figlet SANTRI | lolcat
 
 echo "======================================
-# CREATED BY : RDT
-# DOMISILI   : COD
-# FACEBOOK   : RDT
-# CONTACT ME : 08
+
+# CREATED BY : RO0T 4M3NA
+# DOMISILI   : PASURUAN
+# FACEBOOK   : Amena Gans
+# CONTACT ME : 089530614080
+
 ============================================" | lolcat
 
 echo "[1] remote hp orang
@@ -148,15 +134,3 @@ then
 clear
 exit
 fi
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
